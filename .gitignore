@@ -1,0 +1,65 @@
+# --- NEXT.JS BUILD OUTPUT ---
+.next/
+out/
+
+# --- NODE ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- ENVIRONMENT VARIABLES ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- LOCAL LOGS ---
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# --- COVERAGE ---
+coverage/
+*.lcov
+
+# --- NEXT CACHES ---
+.next/
+.vercel/
+turbo/
+.swc/
+
+# --- SYSTEM FILES ---
+.DS_Store
+Thumbs.db
+
+# --- EDITOR / IDE ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- TEMP FILES ---
+*.tmp
+*.temp
+
+# --- OPTIONAL: IGNORE UPLOADED IMAGES (if any) ---
+# public/uploads/
+# public/tmp/
+
+# --- OPTIONAL: IF YOU GENERATE LOCAL IMAGE ARTIFACTS ---
+# *.webp
+# *.png
+# *.jpg
+
+# --- MACOS METADATA ---
+.AppleDouble
+.LSOverride
+
+# --- WINDOWS TRASH ---
+$RECYCL
