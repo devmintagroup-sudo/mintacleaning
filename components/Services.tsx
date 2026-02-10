@@ -12,6 +12,14 @@ type Service = {
 const services: Service[] = [
   {
     id: "01",
+    slug: "labour-hire",
+    title: "Labour Hire (Cleaning Staff)",
+    description:
+    "Reliable, on-demand cleaning staff for sites needing extra hands — short notice cover, peak periods, and ongoing shifts without the hiring overhead.",
+    image: "/services/labour_hire.webp",
+  },
+  {
+    id: "02",
     slug: "offices",
     title: "Offices & Corporate",
     description:
@@ -19,7 +27,7 @@ const services: Service[] = [
     image: "/services/offices.webp",
   },
   {
-    id: "02",
+    id: "03",
     slug: "hospitality",
     title: "Hospitality & Accommodation",
     description:
@@ -27,7 +35,7 @@ const services: Service[] = [
     image: "/services/hospitality.webp",
   },
   {
-    id: "03",
+    id: "04",
     slug: "warehouse",
     title: "Warehouses & Factories",
     description:
@@ -35,7 +43,7 @@ const services: Service[] = [
     image: "/services/warehouse.webp",
   },
   {
-    id: "04",
+    id: "05",
     slug: "post_construction",
     title: "Builders’ & Post-Construction Clean",
     description:
@@ -43,7 +51,7 @@ const services: Service[] = [
     image: "/services/post_construction.webp",
   },
   {
-    id: "05",
+    id: "06",
     slug: "childcare_medical",
     title: "Childcare, Aged Care & Medical",
     description:
@@ -51,7 +59,7 @@ const services: Service[] = [
     image: "/services/childcare_medical.webp",
   },
   {
-    id: "06",
+    id: "07",
     slug: "homes",
     title: "Homes & End-of-Lease",
     description:
@@ -59,7 +67,7 @@ const services: Service[] = [
     image: "/services/homes.webp",
   },
   {
-    id: "07",
+    id: "08",
     slug: "floor_polish",
     title: "Floors, Stripping & Sealing",
     description:
@@ -67,7 +75,7 @@ const services: Service[] = [
     image: "/services/floor_polish.webp",
   },
   {
-    id: "08",
+    id: "09",
     slug: "solar_gutter",
     title: "Gutters & Solar Panels",
     description:
@@ -75,7 +83,7 @@ const services: Service[] = [
     image: "/services/solar_gutter.webp",
   },
   {
-    id: "09",
+    id: "10",
     slug: "gym",
     title: "Gyms & Specialty Sites",
     description:

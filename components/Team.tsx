@@ -35,22 +35,22 @@ const team: TeamMember[] = [
     summary:
       "Business Development Manager with experience as a Marketing Area Manager, business analyst and Account Manager. Specialises in client acquisition, relationship management and tailored cleaning solutions.",
   },
-  {
-    name: "Lisa",
-    role: "Business Development Manager",
-    phone: "0450 740 686",
-    image: "/meet_team/Lisa.webp",
-    summary:
-      "Business Development Manager with a background as a Quantity Surveyor, Estimator and Project Manager. Strong in cost analysis, planning and client management to design efficient, scalable cleaning services.",
-  },
-  {
-    name: "Sarah",
-    role: "Business Development Manager",
-    phone: "0450 703 553",
-    image: "/meet_team/Sarah.webp",
-    summary:
-      "Business Development Manager with a strong understanding of Australian laws and regulations. Ensures clients receive compliant, high-quality cleaning services aligned with consumer, WHS and environmental standards.",
-  },
+  // {
+  //   name: "Lisa",
+  //   role: "Business Development Manager",
+  //   phone: "0450 740 686",
+  //   image: "/meet_team/Lisa.webp",
+  //   summary:
+  //     "Business Development Manager with a background as a Quantity Surveyor, Estimator and Project Manager. Strong in cost analysis, planning and client management to design efficient, scalable cleaning services.",
+  // },
+  // {
+  //   name: "Sarah",
+  //   role: "Business Development Manager",
+  //   phone: "0450 703 553",
+  //   image: "/meet_team/Sarah.webp",
+  //   summary:
+  //     "Business Development Manager with a strong understanding of Australian laws and regulations. Ensures clients receive compliant, high-quality cleaning services aligned with consumer, WHS and environmental standards.",
+  // },
   {
     name: "Liah",
     role: "Cleaning Sales Manager",
