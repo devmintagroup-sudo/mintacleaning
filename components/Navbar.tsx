@@ -24,7 +24,7 @@ export default function Navbar() {
         {/* LOGO */}
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src="/logo/minta_circle_logo.png"
+            src="/logo/minta_logo.png"
             alt="Minta Cleaning Logo"
             width={56}
             height={56}
