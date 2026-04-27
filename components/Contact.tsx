@@ -66,11 +66,11 @@ export default function Contact() {
             <div className="mt-6 space-y-2 text-sm text-slate-200">
               <p>
                 <span className="font-semibold">Phone:</span>{" "}
-                <a className="text-emerald-300 hover:underline" href="tel:0423401748">
+                <a className="text-emerald-300 hover:underline pr-2" href="tel:0423401748">
                   0423 401 748,
                 </a>
                 <a className="text-emerald-300 hover:underline" href="tel:0432364406">
-                  0432 364 406,
+                  0432 364 406
                 </a>
               </p>
               <p>
