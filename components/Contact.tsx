@@ -67,16 +67,25 @@ export default function Contact() {
               <p>
                 <span className="font-semibold">Phone:</span>{" "}
                 <a className="text-emerald-300 hover:underline" href="tel:0423401748">
-                  0423 401 748
+                  0423 401 748,
+                </a>
+                <a className="text-emerald-300 hover:underline" href="tel:0432364406">
+                  0432 364 406,
                 </a>
               </p>
               <p>
                 <span className="font-semibold">Email:</span>{" "}
-                <a
+                 {/* <a
                   className="text-emerald-300 hover:underline"
                   href="mailto:info@mintahomes.com.au"
                 >
                   info@mintahomes.com.au
+                </a> */}
+                <a
+                  className="text-emerald-300 hover:underline"
+                  href="mailto:mintacleaning7@gmail.com"
+                >
+                  mintacleaning7@gmail.com
                 </a>
               </p>
               <p>
