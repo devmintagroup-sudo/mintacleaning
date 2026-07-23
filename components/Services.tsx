@@ -10,12 +10,12 @@ type Service = {
 };
 
 const services: Service[] = [
-  {
+    {
     id: "01",
-    slug: "labour-hire",
-    title: "Labour Hire (Cleaning Staff)",
+    slug: "partner-with-us",
+    title: "Partner With Us",
     description:
-    "Reliable, on-demand cleaning staff for sites needing extra hands — short notice cover, peak periods, and ongoing shifts without the hiring overhead.",
+      "Are you an experienced cleaning contractor or cleaning business? Partner with Minta Group and work with us across commercial, residential, and specialised cleaning projects.",
     image: "/services/labour_hire.webp",
   },
   {
