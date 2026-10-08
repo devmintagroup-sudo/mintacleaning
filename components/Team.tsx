@@ -72,11 +72,6 @@ export default function Team() {
           <h2 className="mt-1 text-2xl font-semibold text-slate-900 sm:text-3xl">
             People Behind Minta Cleaning
           </h2>
-          <p className="mt-2 text-sm text-slate-600">
-            A leadership and sales team with deep experience in cleaning,
-            facilities, sales and client care – backed by on-site supervisors
-            and front-line cleaners across Australia.
-          </p>
         </div>
 
         <div className="grid gap-6 md:grid-cols-2">
